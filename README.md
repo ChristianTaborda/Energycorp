@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/esneidermanzano/energycorp.svg?branch=master)](https://travis-ci.org/esneidermanzano/energycorp)
-# energycorp
+# Energycorp
 
 Project that simulates an energy organization's system developed with the following technologies: Django and django-rest framework for the backend. React and reactstrap to the frontend. Continuous deployment with Travis CI, Backend Hosted on Heroku using a container and the Front on Firebase.<br />
 
